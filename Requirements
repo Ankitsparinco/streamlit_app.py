@@ -1,0 +1,12 @@
+Required packages to create the converter
+
+Fill in the code in the console (skip the items that are already installed):
+pip install pipenv
+pipenv --python 3.10
+pipenv install streamlit
+pipenv install numpy
+pipenv install opencv-python-headless
+pipenv install pillow
+pipenv shell
+
+
