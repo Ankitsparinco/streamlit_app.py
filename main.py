@@ -1,9 +1,7 @@
 import streamlit as st
 import streamlit.components.v1 as components
 import numpy as np
-import cv2
 from PIL import Image
-import csv
 import os
 import pandas as pd
 
